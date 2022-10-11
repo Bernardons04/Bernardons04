@@ -2,8 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/Bernardons04">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&langs_count=7&theme=radical"/>
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+
 
 ![Snake animation](https://github.com/Bernardons04/Bernardons04/blob/output/github-contribution-grid-snake.svg)
