@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Bernardo Araujo
+<h1 align="left"> <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> Hi, I'm Bernardo Araujo
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bernardons04&color=0e14c2" alt="Profile views" /> </p>
