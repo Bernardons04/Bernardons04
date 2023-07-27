@@ -12,7 +12,7 @@
 
 - 🚀 My portfolio **[ https://portfolio-bernardo.netlify.app/](https://portfolio-bernardo.netlify.app/)**
  
-- 👨‍🎓 I'm graduatind in **Computer Science.**
+- 👨‍🎓 I'm graduating in **Computer Science.**
 
 - 📫 If you want to send a message:  **bernardoaraujons@gmail.com**
 
