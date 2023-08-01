@@ -7,13 +7,10 @@
 <h1 align="left">About me</h1>
 
 - 💻 I'm Front-End Developer
-
-- 🚀 My portfolio **[ https://portfolio-bernardo.netlify.app/](https://portfolio-bernardo.netlify.app/)**
  
 - 👨‍🎓 I'm graduating in **Computer Science.**
 
-- 📫 If you want to send a message:  **bernardoaraujons@gmail.com**
-
+- 🚀 My portfolio **[ https://portfolio-bernardo.netlify.app/](https://portfolio-bernardo.netlify.app/)**
 
 <br>
 <h1 align="left">Tech Stack</h1>
