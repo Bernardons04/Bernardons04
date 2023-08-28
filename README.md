@@ -26,6 +26,12 @@
     <a href='https://www.javascript.com/'>
       <img src="https://skillicons.dev/icons?i=js"/>
     </a>
+    <a href='https://reactjs.org/'>
+      <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
+    <a href='https://git-scm.com/'>
+     <img src="https://skillicons.dev/icons?i=git"/>
+    </a>
  </p>
 
 </div>
