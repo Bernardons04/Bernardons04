@@ -57,7 +57,6 @@
 <h1 align="left">GitHub Analytics</h1>
 
 <div align="center">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true=anuraghazra&show_icons=true&theme=tokyonight" alt="bernardo stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&theme=tokyonight" alt="evander stats"/>
- </div
- 
+ <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="bernardo stats"/>
+ <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&theme=aura" alt="evander stats"/>
+</div
