@@ -3,6 +3,14 @@
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 <br>
+<h1 align="left">GitHub Analytics</h1>
+
+<div align="center">
+ <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true=anuraghazra&show_icons=true&theme=dracula" alt="bernardo stats"/>
+ <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&theme=dracula" alt="bernardo stats"/>
+</div
+
+<br>
 
 <h1 align="left">About me</h1>
 
@@ -51,12 +59,3 @@
  </a>
 
  </p>
-
-<br>
-
-<h1 align="left">GitHub Analytics</h1>
-
-<div align="center">
- <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true=anuraghazra&show_icons=true&theme=vue-dark" alt="bernardo stats"/>
- <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&theme=vue-dark" alt="bernardo stats"/>
-</div
