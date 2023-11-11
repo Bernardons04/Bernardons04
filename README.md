@@ -6,8 +6,8 @@
 <h1 align="left">GitHub Analytics</h1>
 
 <div align="center">
- <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true=anuraghazra&show_icons=true&theme=dracula" alt="bernardo stats"/>
- <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&theme=dracula" alt="bernardo stats"/>
+ <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true=anuraghazra&show_icons=true&theme=aura_dark" alt="bernardo stats"/>
+ <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&theme=aura_dark" alt="bernardo stats"/>
 </div
 
 <br>
