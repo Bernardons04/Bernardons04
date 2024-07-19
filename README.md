@@ -40,6 +40,12 @@
     <a href='https://git-scm.com/'>
      <img src="https://skillicons.dev/icons?i=git"/>
     </a>
+    <a href='https://vuejs.org/'>
+     <img src="https://skillicons.dev/icons?i=vue"/>
+    </a>
+    <a href='https://getbootstrap.com/'>
+     <img src="https://skillicons.dev/icons?i=bootstrap"/>
+    </a>
  </p>
 
 </div>
