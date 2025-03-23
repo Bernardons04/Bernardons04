@@ -14,7 +14,7 @@
 
 <h1 align="left">About me</h1>
 
-- 💻 I'm Front-End Developer
+- 💻 I'm Developer
  
 - 👨‍🎓 I'm graduating in **Computer Science.**
 
