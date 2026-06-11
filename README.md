@@ -1,67 +1,49 @@
+# Bernardo Araujo
 
-<h1 align="left"> <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> Hi, I'm Bernardo Araujo
- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
+### Full Stack Developer | JavaScript | Vue.js | PostgreSQL | LLMs & RAG
 
-<br>
-<h1 align="left">GitHub Analytics</h1>
+Building web applications, integrations and AI-powered solutions.
 
-<div align="center">
- <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Bernardons04&show_icons=true=anuraghazra&show_icons=true&theme=aura_dark" alt="bernardo stats"/>
- <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardons04&layout=compact&theme=aura_dark" alt="bernardo stats"/>
-</div
+## About Me
 
-<br>
+Full Stack Developer with over 2 years of professional experience building web applications and digital products.
 
-<h1 align="left">About me</h1>
+My experience includes frontend development, backend integrations, databases, REST APIs and AI-powered features such as knowledge bases, semantic search, embeddings and LLM integrations.
 
-- 💻 I'm Developer
- 
-- 👨‍🎓 I'm graduating in **Computer Science.**
+## Tech Stack
 
-- 🚀 My portfolio **[ https://portfolio-bernardo.netlify.app/](https://portfolio-bernardo.netlify.app/)**
+### Frontend
 
-<br>
-<h1 align="left">Tech Stack</h1>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
-<div align="left">
- <p>
-    <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href='https://reactjs.org/'>
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-    <a href='https://git-scm.com/'>
-     <img src="https://skillicons.dev/icons?i=git"/>
-    </a>
-    <a href='https://vuejs.org/'>
-     <img src="https://skillicons.dev/icons?i=vue"/>
-    </a>
-    <a href='https://getbootstrap.com/'>
-     <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    </a>
- </p>
+### Backend
 
-</div>
-  
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
+<!--
+### AI
 
-<h1 align="left">Connect with Me</h1>
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-000000?style=flat-square)
+-->
+## Featured Project
 
-<p align="left">
- 
- <a href="https://www.linkedin.com/in/bernardoaraujonascimento/" alt="Linkedin">
-  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(7, 95, 228)&link=https://www.linkedin.com/in/bernardoaraujonascimento/"/> 
- </a>
- 
- <a href="https://portfolio-bernardo.netlify.app/" alt="Portfolio">
-  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(7, 95, 228)&link=https://portfolio-bernardo.netlify.app/"/>
- </a>
+🚀 Rubra Cash — Personal finance management application.
 
- </p>
+<!--
+Portfolio:
+https://your-portfolio-link.com
+-->
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/bernardoaraujonascimento/
