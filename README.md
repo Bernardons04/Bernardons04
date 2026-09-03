@@ -1,51 +1,70 @@
+<div align="center">
+
 # Bernardo Araujo
 
-### Full Stack Developer | JavaScript | Vue.js | PostgreSQL | LLMs & RAG
+### Full Stack Developer | TypeScript | React | Next.js | Node.js | PostgreSQL
 
-Building web applications, integrations and AI-powered solutions.
+<a href="https://www.linkedin.com/in/bernardoaraujonascimento/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ## About Me
 
-Full Stack Developer with over 2 years of professional experience building web applications and digital products.
+Full Stack Developer with 2+ years of professional experience building web applications and digital products.
 
-My experience includes frontend development, backend integrations, databases, REST APIs and AI-powered features such as knowledge bases, semantic search, embeddings and LLM integrations.
+I enjoy solving problems through software and building products end-to-end, with a strong interest in software architecture and system design. I like understanding how systems work as a whole and making thoughtful technical decisions to build reliable and scalable solutions.
+
+I'm also interested in building AI-powered applications and exploring practical ways to integrate AI into software products.
 
 ## Tech Stack
 
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Backend
+### Backend, Database & Deployment
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
-<!--
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+
 ### AI
 
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=flat-square)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-000000?style=flat-square)
--->
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-412991?style=for-the-badge)
+
 ## Featured Project
 
-🚀 Rubra Cash — Personal finance management application.
+### 🚀 Rubra Cash
 
-<!--
-Portfolio:
-https://your-portfolio-link.com
--->
+Personal finance management application built with **Next.js, TypeScript, PostgreSQL and Supabase**.
 
-## Connect
+Features:
 
-* LinkedIn: https://www.linkedin.com/in/bernardoaraujonascimento/
+* Account, income, expense and transfer management
+* Financial dashboard
+* Bank statement import
+* AI-powered transaction categorization
+* Authentication and authorization
+
+[Live Demo](https://rubra-cash.vercel.app/) · [Repository](https://github.com/Bernardons04/rubra-cash-next)
