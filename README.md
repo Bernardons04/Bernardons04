@@ -46,13 +46,6 @@ I'm also interested in building AI-powered applications and exploring practical 
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
 
-### AI
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-412991?style=for-the-badge)
-
 ## Featured Project
 
 ### 🚀 Rubra Cash
