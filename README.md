@@ -58,7 +58,7 @@ I'm also interested in building AI-powered applications and exploring practical 
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## Featured Project
+<!--## Featured Project
 
 ### 🚀 Rubra Cash
 
@@ -73,3 +73,4 @@ Features:
 * Authentication and authorization
 
 [Live Demo](https://rubra-cash.vercel.app/) · [Repository](https://github.com/Bernardons04/rubra-cash-next)
+-->
