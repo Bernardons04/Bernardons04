@@ -2,7 +2,7 @@
 
 # Bernardo Araujo
 
-### Full Stack Developer | TypeScript | React | Next.js | Node.js | PostgreSQL
+### Full Stack Developer
 
 <a href="https://www.linkedin.com/in/bernardoaraujonascimento/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
